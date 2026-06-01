@@ -1,5 +1,5 @@
 //
-// Created by Perfare on 2020/7/4.
+// Created by Perfare on 2020/7/4.modified
 //
 
 #ifndef ZYGISK_IL2CPPDUMPER_GAME_H
